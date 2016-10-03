@@ -2,7 +2,8 @@ Temperature / humidity sensor with Raspberry Pi, MQTT and Graphite / Grafana
 ===
 
 Raspberry Pi (v1) with temperature/humidity sensor (DHT11) sending MQTT messages to MQTT broker while displaying current
-temperature on 2x16 LCD display. Included - MQTT subscriber to push MQTT metrics to Graphite / Grafana for easy graphing.
+temperature and humidity on 2x16 LCD display. 
+Includes MQTT subscriber to push MQTT metrics to Graphite / Grafana for easy graphing.
 
 Hardware
 ---
