@@ -2,6 +2,7 @@ import logging
 
 import Adafruit_DHT
 import paho.mqtt.client as mqtt
+
 import I2C_LCD_driver
 
 logging.basicConfig(level=logging.INFO)
